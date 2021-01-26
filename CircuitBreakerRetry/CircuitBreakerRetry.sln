@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreakerRetry", "CircuitBreakerRetry\CircuitBreakerRetry.csproj", "{2C60085C-9C22-4BEB-A26F-87E6F88F114A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C60085C-9C22-4BEB-A26F-87E6F88F114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C60085C-9C22-4BEB-A26F-87E6F88F114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C60085C-9C22-4BEB-A26F-87E6F88F114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C60085C-9C22-4BEB-A26F-87E6F88F114A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08709002-C636-4001-A0E2-7426D7B55432}
+	EndGlobalSection
+EndGlobal
